@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookInv/static/css/main.fd60fd94.css",
+    "main.js": "/BookInv/static/js/main.fb288e35.js",
+    "static/media/cover.jpg": "/BookInv/static/media/cover.a622356b88978cf3d6cd.jpg",
+    "static/media/Cover_page.jpg": "/BookInv/static/media/Cover_page.84a0935143fcb648c372.jpg",
+    "index.html": "/BookInv/index.html",
+    "main.fd60fd94.css.map": "/BookInv/static/css/main.fd60fd94.css.map",
+    "main.fb288e35.js.map": "/BookInv/static/js/main.fb288e35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd60fd94.css",
+    "static/js/main.fb288e35.js"
+  ]
+}
